@@ -28,34 +28,19 @@ My background in automotive diagnostics has given me a strong foundation in trou
 - Git/GitHub
 - Linux CLI
 
-# Cybersecurity Projects
+## Cybersecurity Projects
 
-## Metasploitable Vulnerability Assessment Lab
+### 🔎 Metasploitable Vulnerability Assessment
 
-A hands-on vulnerability assessment project focused on reconnaissance, service enumeration, vulnerability identification, and security reporting.
+Hands-on vulnerability assessment using Kali Linux, Nmap, and Metasploitable 2. Performed network reconnaissance, service enumeration, vulnerability identification, risk assessment, and documented remediation recommendations.
 
-Skills demonstrated:
-- Network scanning
-- Service enumeration
-- Vulnerability analysis
-- Security documentation
+### 🔐 SSH Hardening & Incident Response Lab
 
-Repository:
-((https://github.com/gregberard/Metasploitable-Vulnerability-Assessment))
+Built a Linux security lab using Ubuntu Server and Kali Linux. Investigated failed SSH authentication attempts, analyzed security logs, hardened SSH authentication controls, validated remediation, and documented the incident response process.
 
-## SSH Hardening & Incident Response Lab
+### 🛡️ Windows SOC Investigation Lab
 
-A defensive security project focused on investigating unauthorized SSH authentication attempts, analyzing Linux security logs, hardening SSH configuration, and validating remediation.
-
-Skills demonstrated:
-- Incident investigation
-- Linux log analysis
-- SSH security
-- System hardening
-- Security validation
-
-Repository:
-(https://github.com/gregberard/SSH-Hardening-Incident-Response-Lab)
+Simulated a junior SOC investigation using Windows Security Event Logs and native endpoint telemetry. Investigated failed authentication, analyzed Event IDs 4625 and 4688, traced process relationships, evaluated PowerShell and discovery activity, developed detection logic, and documented evidence-based verdicts.
 
 ## Currently Learning
 
